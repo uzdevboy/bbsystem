@@ -1,10 +1,8 @@
 <?php
 /**
- * Created by JetBrains PhpStorm.
  * User: Habib
  * Date: 06.02.14
  * Time: 14:19
- * To change this template use File | Settings | File Templates.
  */
 require_once "protected/defines.php";
 class database
